@@ -44,18 +44,23 @@ img{
 .site-nav .item+.item{
     margin-left: 50px;
 }
-.logo-font{
-    font-family: 'Raleway', sans-serif;
+
+.logo{
+    font-family: Raleway;
+    font-style: normal;
     font-weight: bold;
     font-size: 26px;
-    line-height: 1.19;
+    line-height: 31px;
     letter-spacing: 0.03em;
-}
-.logo{
-    
     color: var(--accent-color);
 }
 .colorlogo{
+    font-family: Raleway;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 26px;
+    line-height: 31px;
+    letter-spacing: 0.03em;
     color: var(--primary-text-color);
 }
 
@@ -254,12 +259,14 @@ img{
     background-color:#2F303A;
     padding-top: 60px;
     padding-bottom: 60px;
+    
 }
 .main-footer{
     display: block;
-
+    
 }
 .colorlogo-footer{
+    font-style: normal;
     color:var(--primary-text-btn-color); 
 }
 .main-footer-links{
@@ -268,6 +275,8 @@ img{
 
 }
 .contacts-footer{
+    padding-top: 9px;
+    font-style: normal;
     font-weight: normal;
     font-size: 14px;
     line-height: 1.71;
@@ -275,6 +284,7 @@ img{
     color: rgba(255, 255, 255, 0.6);
 }
 .contacts-adress-footer{
+    font-style: normal;
     font-weight: normal;
     font-size: 14px;
     line-height: 1.71;
