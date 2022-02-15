@@ -31,6 +31,7 @@ img{
     width: 1200px;
     padding:0 15px;
     margin: 0 auto;
+
 }
 .main-nav{
     display: flex;
@@ -62,6 +63,7 @@ img{
     letter-spacing: 0.03em;
     color: var(--primary-text-color);
 }
+
 
 .nav-list-link{
     padding-top:32px;
@@ -205,6 +207,7 @@ img{
 .main-about-work .img-about+.img-about{
     margin-left: 30px;
 }
+
 
 .main-team{
     background-color:#F5F4FA;
