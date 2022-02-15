@@ -31,7 +31,6 @@ img{
     width: 1200px;
     padding:0 15px;
     margin: 0 auto;
-
 }
 .main-nav{
     display: flex;
@@ -64,7 +63,6 @@ img{
     color: var(--primary-text-color);
 }
 
-}
 .nav-list-link{
     padding-top:32px;
     padding-bottom: 32px;
@@ -74,7 +72,7 @@ img{
     font-size: 14px;
     line-height: 1.14;
     letter-spacing: 0.02em;
-    color: var(--primary-text-color);
+    color: black;
 }
 .nav-list-link:hover,
 .nav-list-link:focus{ 
@@ -208,9 +206,8 @@ img{
     margin-left: 30px;
 }
 
-}
 .main-team{
-    background-color: #F5F4FA;
+    background-color:#F5F4FA;
 }
 .cards{
     width: 270px;
@@ -224,6 +221,7 @@ img{
     line-height: 1.16;
     letter-spacing: 0.03em;
     color: #212121;
+    background-color:#F5F4FA;
 }
 
 .list-about-us{
